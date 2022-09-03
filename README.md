@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋, I'm Enyo</h1>
 <h3 align="center">A passionate frontend developer from Lagos,Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/playermayweda7" target="blank"><img src="https://img.shields.io/twitter/follow/playermayweda?logo=twitter&style=for-the-badge" alt="playermayweda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/playermayweda" target="blank"><img src="https://img.shields.io/twitter/follow/playermayweda?logo=twitter&style=for-the-badge" alt="playermayweda" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [maywedadev.github.io](maywedadev.github.io)
 
@@ -33,3 +33,4 @@
 - Gmail - enyoonuche1@gmail.com
 - Twitter - playermayweda
 - Upwork - Enyo Onuche - https://www.upwork.com/freelancers/~013c6cf6b42fb3a220
+- LinkedIn = Enyo Onuche - https://www.linkedin.com/in/enyo-onuche-37b124245/
