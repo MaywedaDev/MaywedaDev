@@ -4,7 +4,15 @@
 
 
 <h1 align="center">Hi there 👋, I'm Enyo</h1>
-<h3 align="center">A passionate frontend developer from Lagos,Nigeria</h3>
+
+👋 Hi there! I'm Enyo, a software developer. My tech stack includes Vue.js, React, TypeScript and Laravel.
+
+🚀 In the frontend realm, I specialize in crafting interactive and user-friendly experiences with Vue.js and React, leveraging the power of TypeScript for type-safe and maintainable code.
+
+💻 On the backend, I've mastered the art of developing scalable and performant server-side applications using Laravel.
+
+🔧 Let's collaborate and build something amazing! Feel free to explore my repositories and connect with me. Happy coding! 🚀
+
 
 <p align="left"> <a href="https://twitter.com/playermayweda" target="blank"><img src="https://img.shields.io/twitter/follow/playermayweda?logo=twitter&style=for-the-badge" alt="playermayweda" /></a> </p>
 
@@ -15,7 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/playermayweda7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="playermayweda7" height="30" width="40" /></a>
-<a href="https://fb.com/enyo onuche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enyo onuche" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,9 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maywedadev&" alt="maywedadev" /></p>
 
-
-- A frontend developer who specialises in Bootstrap, ReactJs, JQuery etc.
 - You can contact me on :
 - Gmail - enyoonuche1@gmail.com
-- Twitter - playermayweda
+- Twitter - playermayweda7
 - LinkedIn = Enyo Onuche - https://www.linkedin.com/in/enyo-onuche-37b124245/
